@@ -1,0 +1,14 @@
+#!/bin/sh
+
+set -e
+
+#DEBHELPER#
+
+case "$1" in
+    configure)
+        cd /usr/share/tuquito/system/
+	cp distro.py /usr/share/pyshared/aptsources/distro.py
+        ;;
+esac
+
+exit 0

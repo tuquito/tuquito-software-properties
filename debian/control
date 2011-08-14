@@ -1,0 +1,12 @@
+Source: tuquito-software-properties
+Section: admin
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+
+Package: tuquito-software-properties
+Architecture: all
+Depends: software-properties-gtk
+Description: Hack para la compatibilidad de software
+ Modificación que permite la inclusión de repositorios de Ubuntu
