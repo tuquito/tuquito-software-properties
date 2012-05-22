@@ -7,7 +7,7 @@ set -e
 case "$1" in
     configure)
         cd /usr/share/tuquito/system/
-	cp distro.py /usr/share/pyshared/aptsources/distro.py
+		cp distro.py /usr/share/pyshared/aptsources/distro.py
         ;;
 esac
 

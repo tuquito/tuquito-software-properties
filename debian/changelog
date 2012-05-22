@@ -1,3 +1,9 @@
+tuquito-software-properties (1.2-2) precise; urgency=low
+
+  * Guarani branch
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 22 May 2012 18:22:59 -0300
+
 tuquito-software-properties (1.2-1) natty; urgency=low
 
   * Pampa Branch
